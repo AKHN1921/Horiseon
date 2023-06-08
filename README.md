@@ -20,10 +20,12 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-<cite>[https://courses.bootcampspot.com/courses/3603/assignments/54680?module_item_id=970067]</cite>
+<cite>[assets\images\acceptance-criteria-week-1.jpg] </cite>
 
-Next I refactored the semantic HTML elements.
+Next, I refactored the semantic HTML elements.
 
-Next I created a more descriptive title element and gave all of the images alt tags with descriptions.
+Next, I created a more descriptive title element and gave all of the images alt tags with descriptions.
+
+Next, I refactored the css and fixed the element tags in the css and html files.
 
 
